@@ -1,4 +1,0 @@
-# 忽略.history文件
-git update-index --assume-unchanged .history
-
-# 忽略.git
