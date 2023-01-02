@@ -23,3 +23,6 @@ https://github.com/yourtion/YOS
 30天自制操作系统光盘
 https://gitee.com/paud/30daysOS
 
+## 笔记
+
+day01 : https://github.com/shuhai65/OSASK/blob/main/day01/day01.md
